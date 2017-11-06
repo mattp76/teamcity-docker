@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="06eb6d49-cee3-4393-ae04-8e07dcb68b34" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/10.0/project-config.xsd">
+  <name>Volkswagen API Sites</name>
+  <description>Volkswagen API Based Sites</description>
+  <parameters />
+  <cleanup />
+</project>
+

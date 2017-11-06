@@ -1,0 +1,10 @@
+<state>
+  <branches>
+    <entry>
+      <string>refs/heads/develop</string>
+      <string>69c902c977d986dc91437feeb262c30d77ae312b</string>
+    </entry>
+  </branches>
+  <defaultBranchName>refs/heads/develop</defaultBranchName>
+  <myTimestamp>2017-09-12 23:54:35.592 UTC</myTimestamp>
+</state>

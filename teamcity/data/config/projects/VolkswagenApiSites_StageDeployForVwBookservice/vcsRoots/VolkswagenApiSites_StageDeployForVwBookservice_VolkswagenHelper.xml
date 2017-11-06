@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vcs-root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="39e2f8ac-fc6c-4e14-8f32-607752c0e0ef" type="jetbrains.git" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/10.0/project-config.xsd">
+  <name>VolkswagenHelper</name>
+  <param name="agentCleanFilesPolicy" value="ALL_UNTRACKED" />
+  <param name="agentCleanPolicy" value="ON_BRANCH_CHANGE" />
+  <param name="authMethod" value="PASSWORD" />
+  <param name="branch" value="refs/heads/develop" />
+  <param name="ignoreKnownHosts" value="true" />
+  <param name="secure:password" value="zxx19b8cc0e9396092c054418ea0f2dbed7" />
+  <param name="submoduleCheckout" value="CHECKOUT" />
+  <param name="url" value="https://bitbucket.org/tddbsydney/volkswagen-helper" />
+  <param name="useAlternates" value="true" />
+  <param name="username" value="scooter1976" />
+  <param name="usernameStyle" value="USERID" />
+</vcs-root>
+

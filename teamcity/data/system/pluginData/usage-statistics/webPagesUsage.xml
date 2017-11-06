@@ -1,0 +1,110 @@
+<root>
+  <page path="/">
+    <usage userId="1" timestamp="1505260426939" />
+  </page>
+  <page path="/admin/admin.html">
+    <usage userId="1" timestamp="1505196025117" />
+  </page>
+  <page path="/admin/createBuildType.html">
+    <usage userId="1" timestamp="1505107443929" />
+  </page>
+  <page path="/admin/createObjectMenu.html">
+    <usage userId="1" timestamp="1505107443696" />
+  </page>
+  <page path="/admin/createProject.html">
+    <usage userId="1" timestamp="1505107402945" />
+  </page>
+  <page path="/admin/createUser.html">
+    <usage userId="1" timestamp="1505107294001" />
+  </page>
+  <page path="/admin/editBuild.html">
+    <usage userId="1" timestamp="1505171232644" />
+  </page>
+  <page path="/admin/editBuildParams.html">
+    <usage userId="1" timestamp="1505171120788" />
+  </page>
+  <page path="/admin/editBuildRunners.html">
+    <usage userId="1" timestamp="1505171238834" />
+  </page>
+  <page path="/admin/editBuildTypeVcsRoots.html">
+    <usage userId="1" timestamp="1505112272156" />
+  </page>
+  <page path="/admin/editProject.html">
+    <usage userId="1" timestamp="1505112279931" />
+  </page>
+  <page path="/admin/editRunType.html">
+    <usage userId="1" timestamp="1505112113529" />
+  </page>
+  <page path="/admin/editUser.html">
+    <usage userId="1" timestamp="1505196037997" />
+  </page>
+  <page path="/admin/editVcsRoot.html">
+    <usage userId="1" timestamp="1505108210034" />
+  </page>
+  <page path="/admin/tools/install.html">
+    <usage userId="1" timestamp="1505108168702" />
+  </page>
+  <page path="/admin/tools/setDefault.html">
+    <usage userId="1" timestamp="1505108160482" />
+  </page>
+  <page path="/agentDetails.html">
+    <usage userId="1" timestamp="1505260540581" />
+  </page>
+  <page path="/agentDetails.html?tab=agentCompatibleConfigurations">
+    <usage userId="1" timestamp="1505171383384" />
+  </page>
+  <page path="/agentpushInstall.html">
+    <usage userId="1" timestamp="1505176291335" />
+  </page>
+  <page path="/agents.html">
+    <usage userId="1" timestamp="1505260543825" />
+  </page>
+  <page path="/agents.html?tab=agent.push">
+    <usage userId="1" timestamp="1505176284965" />
+  </page>
+  <page path="/agents.html?tab=agentPools">
+    <usage userId="1" timestamp="1505114891004" />
+  </page>
+  <page path="/agents.html?tab=agentsParametersReport">
+    <usage userId="1" timestamp="1505114890086" />
+  </page>
+  <page path="/agents.html?tab=disconnectedAgents">
+    <usage userId="1" timestamp="1505260551122" />
+  </page>
+  <page path="/agents.html?tab=registeredAgents">
+    <usage userId="1" timestamp="1505171187752" />
+  </page>
+  <page path="/agents.html?tab=unauthorizedAgents">
+    <usage userId="1" timestamp="1505260535345" />
+  </page>
+  <page path="/changes.html">
+    <usage userId="1" timestamp="1505114883493" />
+  </page>
+  <page path="/overview.html">
+    <usage userId="1" timestamp="1505171277168" />
+  </page>
+  <page path="/profile.html">
+    <usage userId="1" timestamp="1505107282705" />
+  </page>
+  <page path="/project.html?tab=projectOverview">
+    <usage userId="1" timestamp="1505171358412" />
+  </page>
+  <page path="/projectData.html">
+    <usage userId="1" timestamp="1505108650778" />
+  </page>
+  <page path="/queue.html">
+    <usage userId="1" timestamp="1505171205233" />
+  </page>
+  <page path="/showBuildTupesPopup.html">
+    <usage userId="1" timestamp="1505169814234" />
+  </page>
+  <page path="/viewQueued.html?tab=buildLog">
+    <usage userId="1" timestamp="1505171136412" />
+  </page>
+  <page path="/viewQueued.html?tab=queuedBuildOverviewTab">
+    <usage userId="1" timestamp="1505171134865" />
+  </page>
+  <page path="/viewType.html">
+    <usage userId="1" timestamp="1505171220457" />
+  </page>
+</root>

@@ -1,0 +1,3 @@
+[2017-09-11 05:19:31,363]   INFO [ssing plugins 2] - n.AmazonInstanceMetadataReader - Amazon is not available. Amazon EC2 integration is not active: Failed to connect to http://169.254.169.254/2016-04-19. Connection refused (Connection refused) 
+[2017-09-11 07:20:33,233]   INFO [ssing plugins 1] - n.AmazonInstanceMetadataReader - Amazon is not available. Amazon EC2 integration is not active: Failed to connect to http://169.254.169.254/2016-04-19. Connection refused (Connection refused) 
+[2017-09-11 07:25:34,598]   INFO [ssing plugins 1] - n.AmazonInstanceMetadataReader - Amazon is not available. Amazon EC2 integration is not active: Failed to connect to http://169.254.169.254/2016-04-19. Connection refused (Connection refused) 

@@ -1,0 +1,96 @@
+[2017-09-11 05:19:40,923]   INFO [17-09-11 05:16)] - est.APIController/rest-api-9.1 - Listening for paths [/app/rest/9.1] in plugin 'rest-api-9.1' 
+[2017-09-11 05:19:40,936]   INFO [17-09-11 05:16)] - est.APIController/rest-api-9.0 - Listening for paths [/app/rest/9.0] in plugin 'rest-api-9.0' 
+[2017-09-11 05:19:40,937]   INFO [17-09-11 05:16)] - rver.server.rest.APIController - Listening for paths [/app/rest/8.0, /app/rest/8.1] in plugin 'rest-api-8.1' 
+[2017-09-11 05:19:40,944]   INFO [17-09-11 05:16)] - er.rest.APIController/rest-api - Listening for paths [/app/rest/2017.1, /app/rest/10.0, /app/rest, /app/rest/latest, /api] in plugin 'rest-api' 
+[2017-09-11 05:19:41,034]   INFO [I initializer 1] - nsAwareResourceConfig/rest-api - Packages registered by rest extensions: [jetbrains.buildServer.server.restcontrib] 
+[2017-09-11 05:19:41,824]   INFO [I initializer 1] - nsAwareResourceConfig/rest-api - Root resource classes found:
+  class jetbrains.buildServer.server.rest.request.BuildQueueRequest
+  class jetbrains.buildServer.server.rest.request.ChangeRequest
+  class jetbrains.buildServer.server.rest.request.TestRequest
+  class jetbrains.buildServer.server.rest.request.ProjectRequest
+  class jetbrains.buildServer.server.rest.request.TestOccurrenceRequest
+  class jetbrains.buildServer.server.rest.request.DebugRequest
+  class jetbrains.buildServer.server.rest.request.InvestigationRequest
+  class jetbrains.buildServer.server.rest.request.ProblemOccurrenceRequest
+  class jetbrains.buildServer.server.rest.request.VcsRootInstanceRequest
+  class jetbrains.buildServer.server.rest.request.BuildRequest
+  class jetbrains.buildServer.server.rest.request.ProblemRequest
+  class jetbrains.buildServer.server.rest.request.ServerRequest
+  class jetbrains.buildServer.server.rest.request.AgentRequest
+  class jetbrains.buildServer.server.rest.request.BuildTypeRequest
+  class jetbrains.buildServer.server.rest.request.UserRequest
+  class jetbrains.buildServer.server.rest.request.RootApiRequest
+  class jetbrains.buildServer.server.rest.swagger.SwaggerResource
+  class jetbrains.buildServer.server.rest.request.AgentPoolRequest
+  class jetbrains.buildServer.server.restcontrib.cctray.request.CCTrayRequest
+  class jetbrains.buildServer.server.rest.request.FederationRequest
+  class jetbrains.buildServer.server.rest.request.GroupRequest
+  class jetbrains.buildServer.server.rest.request.VcsRootRequest 
+[2017-09-11 05:19:41,824]   INFO [I initializer 1] - nsAwareResourceConfig/rest-api - Provider classes found:
+  class jetbrains.buildServer.server.rest.swagger.SwaggerReaderConfigProvider
+  class jetbrains.buildServer.server.rest.swagger.SwaggerConfigProvider
+  class jetbrains.buildServer.server.rest.swagger.SwaggerSerializers 
+[2017-09-11 07:20:42,967]   INFO [17-09-11 07:19)] - est.APIController/rest-api-9.0 - Listening for paths [/app/rest/9.0] in plugin 'rest-api-9.0' 
+[2017-09-11 07:20:43,001]   INFO [17-09-11 07:19)] - est.APIController/rest-api-9.1 - Listening for paths [/app/rest/9.1] in plugin 'rest-api-9.1' 
+[2017-09-11 07:20:43,003]   INFO [17-09-11 07:19)] - er.rest.APIController/rest-api - Listening for paths [/app/rest/2017.1, /app/rest/10.0, /app/rest, /app/rest/latest, /api] in plugin 'rest-api' 
+[2017-09-11 07:20:43,024]   INFO [17-09-11 07:19)] - rver.server.rest.APIController - Listening for paths [/app/rest/8.0, /app/rest/8.1] in plugin 'rest-api-8.1' 
+[2017-09-11 07:20:43,041]   INFO [I initializer 1] - nsAwareResourceConfig/rest-api - Packages registered by rest extensions: [jetbrains.buildServer.server.restcontrib] 
+[2017-09-11 07:20:43,689]   INFO [I initializer 1] - nsAwareResourceConfig/rest-api - Root resource classes found:
+  class jetbrains.buildServer.server.rest.request.BuildTypeRequest
+  class jetbrains.buildServer.server.rest.request.ProblemRequest
+  class jetbrains.buildServer.server.rest.request.BuildQueueRequest
+  class jetbrains.buildServer.server.restcontrib.cctray.request.CCTrayRequest
+  class jetbrains.buildServer.server.rest.request.ProjectRequest
+  class jetbrains.buildServer.server.rest.request.GroupRequest
+  class jetbrains.buildServer.server.rest.request.VcsRootInstanceRequest
+  class jetbrains.buildServer.server.rest.request.BuildRequest
+  class jetbrains.buildServer.server.rest.request.InvestigationRequest
+  class jetbrains.buildServer.server.rest.request.TestRequest
+  class jetbrains.buildServer.server.rest.swagger.SwaggerResource
+  class jetbrains.buildServer.server.rest.request.ServerRequest
+  class jetbrains.buildServer.server.rest.request.ProblemOccurrenceRequest
+  class jetbrains.buildServer.server.rest.request.AgentRequest
+  class jetbrains.buildServer.server.rest.request.TestOccurrenceRequest
+  class jetbrains.buildServer.server.rest.request.ChangeRequest
+  class jetbrains.buildServer.server.rest.request.RootApiRequest
+  class jetbrains.buildServer.server.rest.request.UserRequest
+  class jetbrains.buildServer.server.rest.request.DebugRequest
+  class jetbrains.buildServer.server.rest.request.FederationRequest
+  class jetbrains.buildServer.server.rest.request.AgentPoolRequest
+  class jetbrains.buildServer.server.rest.request.VcsRootRequest 
+[2017-09-11 07:20:43,690]   INFO [I initializer 1] - nsAwareResourceConfig/rest-api - Provider classes found:
+  class jetbrains.buildServer.server.rest.swagger.SwaggerConfigProvider
+  class jetbrains.buildServer.server.rest.swagger.SwaggerReaderConfigProvider
+  class jetbrains.buildServer.server.rest.swagger.SwaggerSerializers 
+[2017-09-11 07:25:50,420]   INFO [17-09-11 07:24)] - est.APIController/rest-api-9.0 - Listening for paths [/app/rest/9.0] in plugin 'rest-api-9.0' 
+[2017-09-11 07:25:50,440]   INFO [17-09-11 07:24)] - rver.server.rest.APIController - Listening for paths [/app/rest/8.0, /app/rest/8.1] in plugin 'rest-api-8.1' 
+[2017-09-11 07:25:50,441]   INFO [17-09-11 07:24)] - est.APIController/rest-api-9.1 - Listening for paths [/app/rest/9.1] in plugin 'rest-api-9.1' 
+[2017-09-11 07:25:50,443]   INFO [17-09-11 07:24)] - er.rest.APIController/rest-api - Listening for paths [/app/rest/2017.1, /app/rest/10.0, /app/rest, /app/rest/latest, /api] in plugin 'rest-api' 
+[2017-09-11 07:25:50,478]   INFO [I initializer 1] - nsAwareResourceConfig/rest-api - Packages registered by rest extensions: [jetbrains.buildServer.server.restcontrib] 
+[2017-09-11 07:25:51,146]   INFO [I initializer 1] - nsAwareResourceConfig/rest-api - Root resource classes found:
+  class jetbrains.buildServer.server.rest.request.GroupRequest
+  class jetbrains.buildServer.server.rest.request.BuildRequest
+  class jetbrains.buildServer.server.rest.request.VcsRootInstanceRequest
+  class jetbrains.buildServer.server.rest.request.AgentRequest
+  class jetbrains.buildServer.server.rest.request.UserRequest
+  class jetbrains.buildServer.server.rest.request.BuildTypeRequest
+  class jetbrains.buildServer.server.rest.request.ProblemRequest
+  class jetbrains.buildServer.server.restcontrib.cctray.request.CCTrayRequest
+  class jetbrains.buildServer.server.rest.request.InvestigationRequest
+  class jetbrains.buildServer.server.rest.request.VcsRootRequest
+  class jetbrains.buildServer.server.rest.request.TestOccurrenceRequest
+  class jetbrains.buildServer.server.rest.request.ChangeRequest
+  class jetbrains.buildServer.server.rest.request.ProjectRequest
+  class jetbrains.buildServer.server.rest.request.RootApiRequest
+  class jetbrains.buildServer.server.rest.request.ServerRequest
+  class jetbrains.buildServer.server.rest.request.BuildQueueRequest
+  class jetbrains.buildServer.server.rest.request.ProblemOccurrenceRequest
+  class jetbrains.buildServer.server.rest.request.FederationRequest
+  class jetbrains.buildServer.server.rest.request.AgentPoolRequest
+  class jetbrains.buildServer.server.rest.request.TestRequest
+  class jetbrains.buildServer.server.rest.swagger.SwaggerResource
+  class jetbrains.buildServer.server.rest.request.DebugRequest 
+[2017-09-11 07:25:51,151]   INFO [I initializer 1] - nsAwareResourceConfig/rest-api - Provider classes found:
+  class jetbrains.buildServer.server.rest.swagger.SwaggerSerializers
+  class jetbrains.buildServer.server.rest.swagger.SwaggerReaderConfigProvider
+  class jetbrains.buildServer.server.rest.swagger.SwaggerConfigProvider 
